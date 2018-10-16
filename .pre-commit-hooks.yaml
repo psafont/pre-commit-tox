@@ -1,0 +1,6 @@
+	-   id: tox
+	    name: tox
+	    entry: tox
+	    language: python
+	    types: [python]
+	    additional_dependencies: []
